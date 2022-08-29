@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello GitHub!");
         System.out.println("hello GitHub!");
         System.out.println("hello GitHub2 hot-fix!");
+        System.out.println("hello GitHub3 master!");
     }
 }
