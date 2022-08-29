@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hello GitHub3 master!");
         System.out.println("hot-fix text!");
         System.out.println("push text!");
+        System.out.println("pull text!");
     }
 }
